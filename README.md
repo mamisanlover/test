@@ -3,8 +3,9 @@
 スマホのLINEの、LINEスケジュール機能でシフトを作り、回答してもらってください。  
 回答が終わったら、LINEスケジュールの「今すぐ確認」を押し、最初の日程を選択して開く。  
 一番上の、「回答状況」という文字を長押しする。  
-![Test Image 1](https://github.com/mamisanlover/test/例1.png)
+![Test Image 1](https://github.com/mamisanlover/test/blob/main/%E4%BE%8B1.png)
 青い選択が出てきたら、右手指で右下の丸を押し続けながら左手指で画面をスワイプしてすべてを選択したのち、コピーする（力技）。  
+![Test Image 2](https://github.com/mamisanlover/test/blob/main/)
 コピーしたものをPCに送る。  
 
 ## 2　PCでの作業  
