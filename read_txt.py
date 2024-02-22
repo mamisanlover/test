@@ -4,7 +4,7 @@ answer_candidate = ["◯", "△", "✕"]
 with open("回答状況.txt", "r") as t:
 	text = t.read()
 raw = text.split("\n")[1:]
-removed_raw = [r for r in raw if r not in ["次へ", ""]]
+removed_raw = [r for r in raw if r not in ["次へ", "", "前へ"]]
 
 month = int("".join(list(removed_raw[0])[0:2]))
 days = []
@@ -23,3 +23,5 @@ for i in range(len(answers_list)):
 	input_lists[i % len(people_list)].append(answers_list[i])
 need_people = [3 for i in range(len(days))]
 people_num = len(people_list)
+
+
